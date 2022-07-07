@@ -4,7 +4,7 @@ Daniel Camandulle
 Gastón Bello 
 Emiliano Lauga
 
-Emiliano
+Emiliano Lauga
 Gastón Bello
 Facundo Rodriguez
 Daniel Camandulle
